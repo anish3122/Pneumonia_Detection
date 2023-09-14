@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81f97dc1.css",
+    "main.js": "/static/js/main.3dbfc182.js",
+    "static/js/787.419af693.chunk.js": "/static/js/787.419af693.chunk.js",
+    "static/media/bgimg.jpeg": "/static/media/bgimg.d41f4046d7c6c6c7704f.jpeg",
+    "static/media/examination.jpeg": "/static/media/examination.2997753a5100e6c02215.jpeg",
+    "static/media/VJ Schools.png": "/static/media/VJ Schools.e527eaa59d2e9b42fc97.png",
+    "index.html": "/index.html",
+    "main.81f97dc1.css.map": "/static/css/main.81f97dc1.css.map",
+    "main.3dbfc182.js.map": "/static/js/main.3dbfc182.js.map",
+    "787.419af693.chunk.js.map": "/static/js/787.419af693.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81f97dc1.css",
+    "static/js/main.3dbfc182.js"
+  ]
+}
